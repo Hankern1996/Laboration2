@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("hello");
         System.out.println("HELLOOOOO");
+
+        String asde;
     }
 }
